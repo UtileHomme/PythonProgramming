@@ -1,0 +1,66 @@
+--------------------
+Date: 22:5:2021
+Time: 13:10
+Phone number: +918826621482
+Message: Hello
+--------------------
+Date: 22:5:2021
+Time: 13:10
+Phone number: +918826621482
+Message: Hello
+--------------------
+Date: 22:5:2021
+Time: 13:11
+Phone number: +918826621482
+Message: Hello
+--------------------
+Date: 22:5:2021
+Time: 13:13
+Phone number: +918867175085
+Message: This is an automated message from Python code
+--------------------
+Date: 22:5:2021
+Time: 13:20
+Phone number: +918867175085
+Message: Message 1 scheduled to be sent at 1.20 PM
+--------------------
+Date: 22:5:2021
+Time: 13:21
+Phone number: +918867175085
+Message: Message 2 scheduled to be sent at 1.21 PM 
+--------------------
+Date: 22:5:2021
+Time: 13:22
+Phone number: +918867175085
+Message: Message 3 scheduled to be sent at 1.22 PM 
+--------------------
+Date: 22:5:2021
+Time: 13:23
+Phone number: +918867175085
+Message: Message 1 scheduled to be sent at 1.23 PM
+--------------------
+Date: 22:5:2021
+Time: 13:25
+Phone number: +918226621482
+Message: Message 2 scheduled to be sent at 1.25 PM 
+--------------------
+Date: 22:5:2021
+Time: 13:27
+Phone number: +918226621482
+Message: Message 3 scheduled to be sent at 1.27 PM 
+--------------------
+Date: 22:5:2021
+Time: 13:28
+Phone number: +918826621482
+Message: Message 2 scheduled to be sent at 1.25 PM 
+--------------------
+Date: 22:5:2021
+Time: 13:30
+Phone number: +918826621482
+Message: Message 3 scheduled to be sent at 1.27 PM 
+--------------------
+Date: 22:5:2021
+Time: 13:32
+Phone number: +918826621482
+Message: Above messages are part of a single script 
+--------------------
