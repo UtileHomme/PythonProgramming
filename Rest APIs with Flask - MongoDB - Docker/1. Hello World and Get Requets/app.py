@@ -15,7 +15,7 @@ def hi_there_everyone():
 
 @app.route('/bye')
 def bye():
-    # c = 2 * 534
+    # c = 2 * 534l
     # s = str(c)
 
     ret_Json = {
