@@ -1,0 +1,9 @@
+
+qpython:S117"[Rename this local variable "postedData" to match the regular expression ^[_a-z][a-z0-9_]*$.(§ìéu
+tpython:S117"XRename this local variable "retJson" to match the regular expression ^[_a-z][a-z0-9_]*$.(õÂõúÿÿÿÿ
+fpython:S1542'"NRename function "verifyPw" to match the regular expression ^[a-z_][a-z0-9_]*$.(ºôåÍ
+npython:S15422"QRename function "countTokens" to match the regular expression ^[a-z_][a-z0-9_]*$.(ü¤™ïùÿÿÿÿ
+qpython:S117<"[Rename this local variable "postedData" to match the regular expression ^[_a-z][a-z0-9_]*$.(§ìéu
+tpython:S117D"XRename this local variable "retJson" to match the regular expression ^[_a-z][a-z0-9_]*$.(õÂõúÿÿÿÿ
+qpython:S117f"[Rename this local variable "postedData" to match the regular expression ^[_a-z][a-z0-9_]*$.(§ìéu
+tpython:S117n"XRename this local variable "retJson" to match the regular expression ^[_a-z][a-z0-9_]*$.(õÂõúÿÿÿÿ

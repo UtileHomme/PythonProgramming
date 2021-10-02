@@ -1,0 +1,18 @@
+
+ipython:S11922"LDefine a constant instead of duplicating this literal "Status Code" 4 times.(©ƒ»ıÿÿÿÿ
+ipython:S1192="LDefine a constant instead of duplicating this literal 'Status Code' 4 times.(É÷”†øÿÿÿÿ
+opython:S11921"RDefine a constant instead of duplicating this literal "An error occurred" 4 times.(ö·ù»ıÿÿÿÿ
+_python:S5720"BRename "postedData" to "self" or add the missing "self" parameter.(°Ø›ûşÿÿÿÿ
+rpython:S117"VRename this parameter "postedData" to match the regular expression ^[_a-z][a-z0-9_]*$.(°Ø›ûşÿÿÿÿ
+qpython:S117+"[Rename this local variable "postedData" to match the regular expression ^[_a-z][a-z0-9_]*$.(§ìéu
+tpython:S1170"XRename this local variable "retJson" to match the regular expression ^[_a-z][a-z0-9_]*$.(õÂõúÿÿÿÿ
+npython:S117;"WRename this local variable "retMap" to match the regular expression ^[_a-z][a-z0-9_]*$.(ûõ´İ
+qpython:S117E"[Rename this local variable "postedData" to match the regular expression ^[_a-z][a-z0-9_]*$.(§ìéu
+tpython:S117J"XRename this local variable "retJson" to match the regular expression ^[_a-z][a-z0-9_]*$.(õÂõúÿÿÿÿ
+npython:S117U"WRename this local variable "retMap" to match the regular expression ^[_a-z][a-z0-9_]*$.(ûõ´İ
+qpython:S117_"[Rename this local variable "postedData" to match the regular expression ^[_a-z][a-z0-9_]*$.(§ìéu
+tpython:S117d"XRename this local variable "retJson" to match the regular expression ^[_a-z][a-z0-9_]*$.(õÂõúÿÿÿÿ
+npython:S117o"WRename this local variable "retMap" to match the regular expression ^[_a-z][a-z0-9_]*$.(ûõ´İ
+qpython:S117y"[Rename this local variable "postedData" to match the regular expression ^[_a-z][a-z0-9_]*$.(§ìéu
+tpython:S117~"XRename this local variable "retJson" to match the regular expression ^[_a-z][a-z0-9_]*$.(õÂõúÿÿÿÿ
+opython:S117‰"WRename this local variable "retMap" to match the regular expression ^[_a-z][a-z0-9_]*$.(ûõ´İ
