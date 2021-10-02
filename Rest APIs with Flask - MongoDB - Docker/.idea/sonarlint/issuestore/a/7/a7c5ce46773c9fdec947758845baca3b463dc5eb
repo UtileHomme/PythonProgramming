@@ -1,0 +1,5 @@
+
+ppython:S117"YRename this local variable "dataDict" to match the regular expression ^[_a-z][a-z0-9_]*$.(›Ó¶‘
+tpython:S117"XRename this local variable "retJson" to match the regular expression ^[_a-z][a-z0-9_]*$.(õÂõúÿÿÿÿ
+upython:S117'"YRename this local variable "ret_Json" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ó¬²ôùÿÿÿÿ
+5python:S125$"Remove this commented out code.(–…¢o
