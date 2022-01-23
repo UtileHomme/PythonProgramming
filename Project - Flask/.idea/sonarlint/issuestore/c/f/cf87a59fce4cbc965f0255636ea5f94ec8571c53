@@ -1,0 +1,16 @@
+
+;python:S125"Remove this commented out code.(°üèœÿÿÿÿÿ
+ƒpython:S101"gRename class "storeQuestion" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(óº›°ùÿÿÿÿ
+{python:S117"_Rename this local variable "lastQuestionId" to match the regular expression ^[_a-z][a-z0-9_]*$.(âíËúûÿÿÿÿ
+qpython:S117"[Rename this local variable "postedData" to match the regular expression ^[_a-z][a-z0-9_]*$.(§ìéu
+€python:S117"dRename this local variable "questionDescription" to match the regular expression ^[_a-z][a-z0-9_]*$.(„±Å–ùÿÿÿÿ
+tpython:S117"XRename this local variable "retJson" to match the regular expression ^[_a-z][a-z0-9_]*$.(õÂõúÿÿÿÿ
+€python:S101""iRename class "getQuestionList" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(‰²¨Ğ
+zpython:S117$"^Rename this local variable "questionCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚âšÜüÿÿÿÿ
+tpython:S117'"XRename this local variable "retJson" to match the regular expression ^[_a-z][a-z0-9_]*$.(õÂõúÿÿÿÿ
+6python:S1257"Remove this commented out code.(ÇÈ‘í
+…python:S101:"iRename class "getQuestionById" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(½¢Êôşÿÿÿÿ
+wpython:S117E"`Rename this local variable "questionDetails" to match the regular expression ^[_a-z][a-z0-9_]*$.(ãÑûæ
+mpython:S117;"VRename this parameter "questionId" to match the regular expression ^[_a-z][a-z0-9_]*$.(•š÷Œ
+tpython:S117?"XRename this local variable "retJson" to match the regular expression ^[_a-z][a-z0-9_]*$.(õÂõúÿÿÿÿ
+zpython:S117<"cRename this local variable "searchedQuestionId" to match the regular expression ^[_a-z][a-z0-9_]*$.(İö§¹
