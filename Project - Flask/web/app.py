@@ -1,15 +1,14 @@
 from flask import Flask, jsonify, request
 from flask_restful import Api, Resource
-import bcrypt
+# from pymongo import MongoClient
+import questions
 
-from pymongo import MongoClient
+from mongoDB import MongoDB
 
 app = Flask(__name__)
 api = Api(app)
 
-client = MongoClient("mongodb://db:27017")
-db = client.QuestionsDatabase
-questions = db['questions']
+questions = questions.Questions()
 
 
 class storeQuestion(Resource):
@@ -17,8 +16,10 @@ class storeQuestion(Resource):
         postedData = request.get_json()
         questionDescription = postedData["questionDescription"]
 
-        questions.insert({
-            # '_id': 2,
+        lastQuestionId = questions.getLastQuestionId()
+
+        questions.addQuestion({
+            'questionId': lastQuestionId + 1,
             'questionDesc': questionDescription
         })
 
@@ -32,7 +33,17 @@ class storeQuestion(Resource):
 
 class getQuestionList(Resource):
     def get(self):
-        question = list(questions.find({}, {'_id': 0}))
+        questionCount = questions.getTotalCountOfQuestions()
+
+        if questionCount == 0:
+            retJson = {
+                "status": 200,
+                "message": "You have not added any questions"
+            }
+
+            return jsonify(retJson)
+
+        question = questions.getCompleteListOfQuestions()
 
         retJson = {
             "status": 200,
@@ -44,35 +55,31 @@ class getQuestionList(Resource):
         # return jsonify([question for question in questionList])
 
 
-class getQuestion(Resource):
-    def post(self, id):
-        postedData = request.get_json()
+class getQuestionById(Resource):
+    def get(self, questionId):
+        searchedQuestionId = questions.searchQuestionId(questionId)
 
-        self.id = id
-
-        users.update({
-            "Username": username,
-        }, {
-            "$set": {
-                "Tokens": num_tokens - 1
+        if searchedQuestionId == 0:
+            retJson = {
+                "status": 301,
+                "message": "This questionId doesn't exist"
             }
-        })
+            return jsonify(retJson)
 
-        sentence = users.find({
-            "Username": username,
-        })[0]["Sentence"]
+        questionDetails = questions.getQuestionDetailsById(questionId)
 
         retJson = {
             "status": 200,
-            "message": sentence
+            "questionId": questionId,
+            "questionDesc": questionDetails
         }
 
         return jsonify(retJson)
 
 
-api.add_resource(storeQuestion, '/storeQuestion')
-api.add_resource(getQuestion, '/getQuestion/<int:id>')
-api.add_resource(getQuestionList, '/getQuestionList')
+api.add_resource(storeQuestion, '/api/v1/question')
+api.add_resource(getQuestionById, '/api/v1/question/<int:questionId>')
+api.add_resource(getQuestionList, '/api/v1/questions')
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)

@@ -53,3 +53,13 @@ V
 &21. Iterating over dictionaries/app.py,5/2/5222e3ef0de07efc48527eec8dc2ea2de56bd79d
 N
 22. Break and Continue/app2.py,6/5/65ef8fd10add7314bc12dae5c7f14a7a9936cb23
+M
+22. Break and Continue/app.py,4/e/4eebd22f2b89d0cca0636bf1d3a49343d7a281f5
+V
+&23. The else keyword with loops/app.py,5/4/54459609600d55e2c1af9580e88ea16e2d0ff64d
+_
+/24. Finding prime numbers with for loops/app.py,d/5/d575114c1888244951bd853eefefa154b0bfe32d
+Q
+!25. List slicing in Python/app.py,8/2/821a0ea5a79adff5511a3cf99bf68fd8f5016bc0
+X
+(26. List comprehension in Python/app2.py,a/c/acfd638fb9f72677d300040ec231cfa9bddd8838

@@ -1,0 +1,15 @@
+
+vpython:S116"ZRename this field "questionCollection" to match the regular expression ^[_a-z][_a-z0-9]*$.(¡šËºúÿÿÿÿ
+kpython:S100
+"ORename method "addQuestion" to match the regular expression ^[a-z_][a-z0-9_]*$.(ï…îòúÿÿÿÿ
+qpython:S100"URename method "getLastQuestionId" to match the regular expression ^[a-z_][a-z0-9_]*$.(É¡ğÂûÿÿÿÿ
+ipython:S5795"QReplace this "is not" operator with "!="; identity operator is not reliable here.(—Ãø†
+xpython:S100"\Rename method "getTotalCountOfQuestions" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ö¤•¥ÿÿÿÿÿ
+ypython:S117"]Rename this local variable "questionList" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹€¡ùÿÿÿÿ
+zpython:S100"^Rename method "getCompleteListOfQuestions" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ó‚„Ôÿÿÿÿÿ
+rpython:S117"VRename this parameter "questionId" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰×œˆşÿÿÿÿ
+|python:S117"`Rename this local variable "questionIdCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(éƒ‚…şÿÿÿÿ
+ppython:S100"TRename method "searchQuestionId" to match the regular expression ^[a-z_][a-z0-9_]*$.(‰×œˆşÿÿÿÿ
+spython:S117!"]Rename this local variable "questionDesc" to match the regular expression ^[_a-z][a-z0-9_]*$.(ìÕ¸*
+rpython:S117 "VRename this parameter "questionId" to match the regular expression ^[_a-z][a-z0-9_]*$.(í²ìøÿÿÿÿ
+vpython:S100 "ZRename method "getQuestionDetailsById" to match the regular expression ^[a-z_][a-z0-9_]*$.(í²ìøÿÿÿÿ
