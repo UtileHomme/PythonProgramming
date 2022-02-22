@@ -61,5 +61,3 @@ _
 /24. Finding prime numbers with for loops/app.py,d/5/d575114c1888244951bd853eefefa154b0bfe32d
 Q
 !25. List slicing in Python/app.py,8/2/821a0ea5a79adff5511a3cf99bf68fd8f5016bc0
-X
-(26. List comprehension in Python/app2.py,a/c/acfd638fb9f72677d300040ec231cfa9bddd8838
