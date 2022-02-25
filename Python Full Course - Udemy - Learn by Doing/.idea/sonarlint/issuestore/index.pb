@@ -61,3 +61,23 @@ _
 /24. Finding prime numbers with for loops/app.py,d/5/d575114c1888244951bd853eefefa154b0bfe32d
 Q
 !25. List slicing in Python/app.py,8/2/821a0ea5a79adff5511a3cf99bf68fd8f5016bc0
+X
+(26. List comprehension in Python/app2.py,a/c/acfd638fb9f72677d300040ec231cfa9bddd8838
+T
+$32. Arguments and Parameters/app3.py,1/1/11729ffad8c2491a9869f32f5b393a19f3a9aac7
+a
+133.  Functions and return values in Python/app.py,3/6/36d7b3408401189ee249aa614fce4f3ae50287af
+b
+233.  Functions and return values in Python/app2.py,0/5/0565c14e9faeb6511849f7892dd5db838eedf0ab
+S
+#34. Default parameter values/app.py,0/1/01f98478f092d2ee0d639c3671ac0b5da7a72801
+U
+%35. Lambda functions in Python/app.py,4/6/4669c0c586631af41158665db3c69be027ab402d
+Z
+*36. First-class functions in Python/app.py,8/2/8249defdd1572c96c1b76d35f7fc23321a70f8ab
+V
+&35. Lambda functions in Python/app2.py,0/f/0f103a68bdeb7115e877fd8a3c1c28d6bb08ad01
+[
++36. First-class functions in Python/app1.py,3/d/3d3450acb8cbba4546e5200b3c811b614e6396b7
+[
++36. First-class functions in Python/app2.py,5/d/5dc85775d737a89f1533053aa877b8ff5a26518e
