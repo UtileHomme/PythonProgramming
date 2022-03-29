@@ -21,8 +21,6 @@ I
 10. Sets in Python/app.py,7/1/711de1c76a5c9e414d51d1a4d9986b7aafa472a7
 R
 "11. Advanced set operations/app.py,8/c/8ceab8bbcc82dfce8457b67e1206891e81d0c6cf
-N
-12. Python Dictionaries/app.py,4/f/4f0414ed8c912ec45ddb2bd48c7ef9053d55df86
 I
 14. Length and sum/app.py,e/0/e04c33a99da411957ceba75f7f41a95d8b89c7c2
 I
@@ -49,8 +47,6 @@ O
 20. Destructuring Syntax/app.py,7/3/731850f60cf99f9ef14fd13858ede3a6409a7c6f
 P
  20. Destructuring Syntax/app2.py,d/5/d511107df27de0d55658c4291f1a9aaf60688765
-V
-&21. Iterating over dictionaries/app.py,5/2/5222e3ef0de07efc48527eec8dc2ea2de56bd79d
 N
 22. Break and Continue/app2.py,6/5/65ef8fd10add7314bc12dae5c7f14a7a9936cb23
 M
@@ -65,19 +61,33 @@ X
 (26. List comprehension in Python/app2.py,a/c/acfd638fb9f72677d300040ec231cfa9bddd8838
 T
 $32. Arguments and Parameters/app3.py,1/1/11729ffad8c2491a9869f32f5b393a19f3a9aac7
-a
-133.  Functions and return values in Python/app.py,3/6/36d7b3408401189ee249aa614fce4f3ae50287af
-b
-233.  Functions and return values in Python/app2.py,0/5/0565c14e9faeb6511849f7892dd5db838eedf0ab
-S
-#34. Default parameter values/app.py,0/1/01f98478f092d2ee0d639c3671ac0b5da7a72801
-U
-%35. Lambda functions in Python/app.py,4/6/4669c0c586631af41158665db3c69be027ab402d
 Z
 *36. First-class functions in Python/app.py,8/2/8249defdd1572c96c1b76d35f7fc23321a70f8ab
-V
-&35. Lambda functions in Python/app2.py,0/f/0f103a68bdeb7115e877fd8a3c1c28d6bb08ad01
 [
 +36. First-class functions in Python/app1.py,3/d/3d3450acb8cbba4546e5200b3c811b614e6396b7
 [
 +36. First-class functions in Python/app2.py,5/d/5dc85775d737a89f1533053aa877b8ff5a26518e
+P
+ 41. Inheritance in Python/app.py,8/8/88e8f67f8e27504230d916f3a810b99f67637e6e
+R
+"40. Magic methods in Python/app.py,4/1/41707a2490f916014a9db145b2a255a2d143a92f
+R
+"42. The @property decorator/app.py,8/b/8b55051a0a435d1e7e9b1ed43124799bf761103d
+c
+343. @classmethod and @staticmethod in Python/app.py,b/4/b42dd182fabf2d9f93dc6a04054c9ea66d074229
+g
+744. More @classmethod and @staticmethod examples/app.py,c/9/c910e1b55aa3b7c722f0d3157e9be446e836a3f4
+h
+844. More @classmethod and @staticmethod examples/app1.py,b/3/b31a0172b7a43b71bf7d88f75c8a3201c17db776
+h
+844. More @classmethod and @staticmethod examples/app2.py,0/4/042f086b20b8cadf28db8d2321b52c91ba20a53e
+K
+29. The zip function/app.py,0/2/02cee54191246c192ead08af9aa0d413ae7d7191
+k
+;37. Intro to Object-Oriented Programming with Python/app.py,5/2/526d52b65aa47b09d82ec863148f787b0a0fda50
+V
+&38. More on classes and objects/app.py,1/8/18bc529513f2a51dbf2a9c6e9d6509d9d1c3f786
+S
+#45. Raising Errors in Python/app.py,c/b/cb7d3d3d355366340018d95f6474d085ca1393b2
+[
++Getting all exchanges rates from API/app.py,8/3/83516e7fca95b5a3221f445c62422ac8e82868a3
