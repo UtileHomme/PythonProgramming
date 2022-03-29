@@ -13,8 +13,6 @@ V
 &5. Getting user input in Python/app.py,f/c/fc9b25fe5157c46b3d2a55d0cd4a648b1d2df5ba
 L
 7. and & or in Python/app.py,2/4/2486388ed7b1758228b41524e94418d9e0d9023f
-I
-8. Lists in Python/app.py,3/c/3c553eed34956f7f10fc16502a7cae76a4dc96ca
 J
 9. Tuples in Python/app.py,e/a/ea87f9fca86d0ac92703ae2728f8d7cc3bcb9575
 I
@@ -37,16 +35,6 @@ F
 18. While Loops/app.py,8/4/844d4e60ce8a2b11eef785b937d1db6a6c13dc5f
 G
 18. While Loops/app2.py,9/6/9631eabd2ef42f1b50d2c4beb8c353737896206e
-D
-19. For Loops/app.py,b/7/b7bba21089de4fe7b774e9c076129b1815f10b38
-E
-19. For Loops/app2.py,a/5/a50b3bde1070771580c24e0b6118edfefa4451a5
-E
-19. For Loops/app3.py,1/4/140464990b4e46b318f5522b9d1810c23319ed31
-O
-20. Destructuring Syntax/app.py,7/3/731850f60cf99f9ef14fd13858ede3a6409a7c6f
-P
- 20. Destructuring Syntax/app2.py,d/5/d511107df27de0d55658c4291f1a9aaf60688765
 N
 22. Break and Continue/app2.py,6/5/65ef8fd10add7314bc12dae5c7f14a7a9936cb23
 M
@@ -55,8 +43,6 @@ V
 &23. The else keyword with loops/app.py,5/4/54459609600d55e2c1af9580e88ea16e2d0ff64d
 _
 /24. Finding prime numbers with for loops/app.py,d/5/d575114c1888244951bd853eefefa154b0bfe32d
-Q
-!25. List slicing in Python/app.py,8/2/821a0ea5a79adff5511a3cf99bf68fd8f5016bc0
 X
 (26. List comprehension in Python/app2.py,a/c/acfd638fb9f72677d300040ec231cfa9bddd8838
 T
@@ -89,5 +75,3 @@ V
 &38. More on classes and objects/app.py,1/8/18bc529513f2a51dbf2a9c6e9d6509d9d1c3f786
 S
 #45. Raising Errors in Python/app.py,c/b/cb7d3d3d355366340018d95f6474d085ca1393b2
-[
-+Getting all exchanges rates from API/app.py,8/3/83516e7fca95b5a3221f445c62422ac8e82868a3

@@ -28,6 +28,11 @@ ford = Garage()
 carss = Car('Ford', 'Fiesta')
 
 try:
-    ford.add_car('carss')
+    ford.add_car('Fiesta')
 except TypeError:
     print('Your car was not an Car!')
+except ValueError:
+    print('Something weird happened...')
+# Finally block runs everytime
+finally:
+    print(f'The garage now has {len(ford)} cars.')
