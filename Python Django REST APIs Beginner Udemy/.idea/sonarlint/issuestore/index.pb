@@ -15,14 +15,10 @@ W
 'profiles-rest-api/profiles_api/admin.py,4/d/4d107ce9ed50e0d0a54e491a06ca4b57aca43f54
 Z
 *profiles-rest-api/profiles_project/urls.py,6/3/63282078dbcd62047463d084a4ff2fda8107857c
-^
-.profiles-rest-api/profiles_project/settings.py,5/9/5986e23b72b661d0cbac20356c11ca3774c7784b
 K
 profiles-rest-api/manage.py,9/9/9950c58c3dd2252e16b08016d60c6851f3b16aab
 R
 "profiles-rest-api/requirements.txt,d/1/d111e4162cb1583454171d5ed93b44f79c698047
-V
-&profiles-rest-api/profiles_api/urls.py,e/b/eb66c897842cf1132747ce2f54968cb86a3fc89c
 X
 (profiles-rest-api/profiles_api/models.py,f/9/f96d57da2c80c271e340e1e979488b19e6c4a7fa
 ]
@@ -31,3 +27,7 @@ X
 -profiles-rest-api/profiles_api/permissions.py,5/f/5f6d589489ab43a79c962ff0a196c48f2cd5d61f
 W
 'profiles-rest-api/profiles_api/views.py,7/0/70ed5fcff40b375f7a8f5cebdac64b3b2c7e991e
+V
+&profiles-rest-api/profiles_api/urls.py,e/b/eb66c897842cf1132747ce2f54968cb86a3fc89c
+^
+.profiles-rest-api/profiles_project/settings.py,5/9/5986e23b72b661d0cbac20356c11ca3774c7784b

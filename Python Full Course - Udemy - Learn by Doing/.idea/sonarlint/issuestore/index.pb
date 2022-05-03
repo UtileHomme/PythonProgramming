@@ -75,3 +75,67 @@ V
 &38. More on classes and objects/app.py,1/8/18bc529513f2a51dbf2a9c6e9d6509d9d1c3f786
 S
 #45. Raising Errors in Python/app.py,c/b/cb7d3d3d355366340018d95f6474d085ca1393b2
+]
+-28. Set and dictionary comprehensions/app1.py,d/8/d8a1556d04cfde2eaa3c53cd73c02cf5d1fd9513
+\
+,28. Set and dictionary comprehensions/app.py,b/f/bf1e07678397a44b0eb5e80cbf175440a6c75606
+N
+12. Python Dictionaries/app.py,4/f/4f0414ed8c912ec45ddb2bd48c7ef9053d55df86
+a
+133.  Functions and return values in Python/app.py,3/6/36d7b3408401189ee249aa614fce4f3ae50287af
+b
+233.  Functions and return values in Python/app2.py,0/5/0565c14e9faeb6511849f7892dd5db838eedf0ab
+U
+%39. Parameter Naming in Python/app.py,1/a/1a37ccb7171eebc16fd4d05d07af0283846ca618
+V
+&35. Lambda functions in Python/app2.py,0/f/0f103a68bdeb7115e877fd8a3c1c28d6bb08ad01
+U
+%35. Lambda functions in Python/app.py,4/6/4669c0c586631af41158665db3c69be027ab402d
+S
+#34. Default parameter values/app.py,0/1/01f98478f092d2ee0d639c3671ac0b5da7a72801
+h
+8Creating a currency exchane library/libs/openexchange.py,1/5/151947423f70c90475562d2e9bab86b5a9a1cd6a
+Z
+*Creating a currency exchane library/app.py,9/d/9d103a03b862941a15fb5ffb7a984caf149373f8
+Q
+!46. Raising our own errors/app.py,c/1/c1bb7ecd2ef8572b8462a7f7ecf95e34df71427d
+[
++Getting all exchanges rates from API/app.py,8/3/83516e7fca95b5a3221f445c62422ac8e82868a3
+T
+$46. Raising our own errors/errors.py,0/3/0352293bbab235a61612cce321ef56792bd2cb5f
+U
+%47. Dealing with Python Errors/app.py,a/9/a963250b8be6d4ba70a8d0e12e8e06fa743905da
+j
+:48.  The on success block and re-raising exceptions/app.py,7/1/714a0bb3d718263b8864bf4d7a809d05d8ded871
+L
+49. Files in Python/data.txt,4/d/4d233aff8b12ffa067eb45cb9f1cf687ee24a9a4
+J
+49. Files in Python/app.py,7/d/7d468f9204b5b2dca0a162ae3b65a63c0f9123c8
+I
+8. Lists in Python/app.py,3/c/3c553eed34956f7f10fc16502a7cae76a4dc96ca
+E
+19. For Loops/app3.py,1/4/140464990b4e46b318f5522b9d1810c23319ed31
+E
+19. For Loops/app2.py,a/5/a50b3bde1070771580c24e0b6118edfefa4451a5
+D
+19. For Loops/app.py,b/7/b7bba21089de4fe7b774e9c076129b1815f10b38
+O
+20. Destructuring Syntax/app.py,7/3/731850f60cf99f9ef14fd13858ede3a6409a7c6f
+P
+ 20. Destructuring Syntax/app2.py,d/5/d511107df27de0d55658c4291f1a9aaf60688765
+V
+&21. Iterating over dictionaries/app.py,5/2/5222e3ef0de07efc48527eec8dc2ea2de56bd79d
+Q
+!25. List slicing in Python/app.py,8/2/821a0ea5a79adff5511a3cf99bf68fd8f5016bc0
+W
+'26. List comprehension in Python/app.py,7/e/7ec1301933e0f3ebcdff3f173e56d0ac100a7e2d
+J
+50. Copying files/data.txt,b/f/bf1365b28da2ae225ad0b269b760accad6a7bfb8
+T
+$50. Copying files/nearby_friends.txt,5/b/5b883e23099a72d1efd6b847c6027a3b861a74b1
+L
+50. Copying files/friends.py,a/0/a0105a8b96330e8b377b822cdefee3632248079f
+L
+50. Copying files/people.txt,8/2/8258ed8a1c6f6fa1f73e1524f68c5e882d33e0f9
+H
+50. Copying files/app.py,d/b/dba4c07a9d80f11d690489e29aed71f82eaa6db2
