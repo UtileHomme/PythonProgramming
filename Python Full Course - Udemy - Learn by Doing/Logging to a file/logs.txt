@@ -1,0 +1,8 @@
+2022-05-07 19:58:14,643 INFO     [app.py:8] This will not show up.
+2022-05-07 19:58:14,646 WARNING  [app.py:9] This will.
+2022-05-07 19:58:14,646 DEBUG    [app.py:10] This is a debug message
+2022-05-07 19:58:14,646 CRITICAL [app.py:11] A  critical error occurred
+2022-05-07 20:02:09,704 INFO     [app.py:8] This will not show up.
+2022-05-07 20:02:09,706 WARNING  [app.py:9] This will.
+2022-05-07 20:02:09,706 DEBUG    [app.py:10] This is a debug message
+2022-05-07 20:02:09,706 CRITICAL [app.py:11] A  critical error occurred
