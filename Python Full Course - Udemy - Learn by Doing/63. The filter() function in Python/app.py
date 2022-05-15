@@ -17,7 +17,7 @@ start_with_r = filter(starts_with_r, friends)
 # Rolf
 # Randy
 # Traceback (most recent call last):
-#   File "C:/Users/jsharma029/OneDrive/Study Related/Python/Python Full Course - Udemy - Learn by Doing/The filter() function in Python/app.py", line 18, in <module>
+#   File "C:/Users/jsharma029/OneDrive/Study Related/Python/Python Full Course - Udemy - Learn by Doing/63. The filter() function in Python/app.py", line 18, in <module>
 #     print(next(start_with_r))
 # StopIteration
 # print(next(start_with_r))
