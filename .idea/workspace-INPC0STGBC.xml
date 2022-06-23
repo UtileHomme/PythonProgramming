@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab10f9e0-f3b5-40d6-9b20-a1a405297d7c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Django_REST_API_Hindi/gs3/api/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_REST_API_Hindi/gs3/myapp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project - Flask/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/Project - Flask/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project - Flask/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project - Flask/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project - Flask/db/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Project - Flask/db/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project - Flask/web/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Project - Flask/web/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project - Flask/web/mongoDB.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project - Flask/web/mongoDB.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Django REST APIs Beginner Udemy/profiles-rest-api" beforeDir="false" afterPath="$PROJECT_DIR$/Python Django REST APIs Beginner Udemy/profiles-rest-api" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Django REST APIs Beginner Udemy/profiles-rest-api/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Django REST APIs Beginner Udemy/profiles-rest-api/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Django REST APIs Beginner Udemy/profiles-rest-api/profiles_api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Django REST APIs Beginner Udemy/profiles-rest-api/profiles_api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Django REST APIs Beginner Udemy/profiles-rest-api/profiles_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Django REST APIs Beginner Udemy/profiles-rest-api/profiles_api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/02. Operators (cheatsheet).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Creating a New Sequence Type in Python - Part 1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Creating a New Sequence Type in Python - Part 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Creating a New Sequence Type in Python - Part 3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Datetime+cheatsheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 10_ Dictionaries.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 11_ Sets.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 12_ Functions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 13_ Scope and Returning Values from Functions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 14_ Working with Files.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 15_ Comprehensions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 16_ First Class Functions and Lambda Expressions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 17_ Flexible Functions with _args and __kwargs.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 18_ Imports.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 19_ Exception Handling.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 1_ Numbers, Arithmetic, and Printing to the Console.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 20_ map, filter, and Conditional Comprehensions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 21_ Splitting Code Into Multiple Files.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 22_ Iterators.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 23_ Generators and Generator Expressions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 24_ Advanced Exception Handling and Raising Exceptions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 25_ Writing Idiomatic Python.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 26_ Leveraging the Standard Library.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 27_ Setting Up a Local Development Environment.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 28_ Type Hinting.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 29_ Decorators.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 2_ Strings, Variables, and Getting Input from Users.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 3_ Formatting Strings and Processing User Input.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 4_ Basic Python Collections.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 5_ Conditionals and Booleans.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 6_ For Loops.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 7_ split, join, and Slices.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 8_ While Loops.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Day 9_ Unpacking, Enumeration, and the zip Function.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Destructuring in Python.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Extending Python Lists.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Formatting Integers in Different Bases in Python.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Formatting Numbers for Printing in Python.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/How to set up Visual Studio Code for Python development.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Introduction to Context Managers in Python.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Logical comparisons in Python_ and &amp; or.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/More Uses for Else in Python.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Nested String Interpolation in Python.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Python Comprehensions with Conditionals.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Python Datatypes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Python Deques.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Python Dictionaries and Loops.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Python Functions Cheatsheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Python Itertools Part 1 - Product.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Python Itertools Part 2 - Combinations &amp; Permutations.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Python Set Operators.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Python Slices Part 2_ The Deep Cut.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Python Slices.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Python's Enumerate Function.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Python's _Ternary Operator_.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Python's divmod Function.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Python's format Function.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Python's modulo operator and floor division.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Python's namedtuples.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Python's symmetric_difference Method for Sets.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Python's zip_longest Function.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Quick Sequence Reversal in Python.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/The Curious Case of Python’s Context Manager _ Red’s Digressions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Top 100 Python Interview Questions &amp; Answers _ Mindmajix.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Top 61 Python Interview Questions And Answers.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Top Python Interview Questions and Answers (PDF) in 2022.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Updating Python Dictionaries.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Study Material/Using zip in Python.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/bin/pip3.7" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/bin/pip3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/.dylibs/libSDL2-2.0.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/.dylibs/libSDL2-2.0.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/.dylibs/libSDL2_image.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/.dylibs/libSDL2_image.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/.dylibs/libSDL2_ttf.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/.dylibs/libSDL2_ttf.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/.dylibs/libportmidi.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/.dylibs/libportmidi.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/.dylibs/libsdl2_mixer.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/.dylibs/libsdl2_mixer.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/_freetype.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/_freetype.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/_sdl2/audio.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/_sdl2/audio.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/_sdl2/controller.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/_sdl2/controller.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/_sdl2/mixer.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/_sdl2/mixer.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/_sdl2/sdl2.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/_sdl2/sdl2.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/_sdl2/touch.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/_sdl2/touch.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/_sdl2/video.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/_sdl2/video.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/_sprite.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/_sprite.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/base.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/base.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/bufferproxy.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/bufferproxy.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/color.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/color.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/constants.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/constants.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/display.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/display.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/draw.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/draw.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/event.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/event.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/fastevent.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/fastevent.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/font.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/font.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/gfxdraw.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/gfxdraw.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/image.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/image.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/imageext.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/imageext.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/joystick.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/joystick.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/key.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/key.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/mask.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/mask.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/math.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/math.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/mixer.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/mixer.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/mixer_music.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/mixer_music.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/mouse.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/mouse.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/newbuffer.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/newbuffer.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/pixelarray.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/pixelarray.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/pixelcopy.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/pixelcopy.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/pypm.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/pypm.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/rect.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/rect.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/rwobject.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/rwobject.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/sdlmain_osx.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/sdlmain_osx.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/surface.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/surface.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/surflock.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/surflock.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/time.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/time.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/transform.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDebug/venv/lib/python3.7/site-packages/pygame/transform.cpython-37m-darwin.so" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27LPXGlQhk7ViMQjA8WN13sQwnY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.myapp (2)">
+    <configuration name="myapp (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Django_REST_API_Hindi/gs2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Django_REST_API_Hindi/gs2/myapp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="myapp (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Django_REST_API_Hindi/gs3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Django_REST_API_Hindi/gs3/myapp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="myapp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Django_REST_API_Hindi/gs1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Django_REST_API_Hindi/gs1/myapp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.myapp (2)" />
+        <item itemvalue="Python.myapp (1)" />
+        <item itemvalue="Python.myapp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab10f9e0-f3b5-40d6-9b20-a1a405297d7c" name="Changes" comment="" />
+      <created>1649096437986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649096437986</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Django_REST_API_Hindi/gs3/myapp.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Django_REST_API_Hindi/gs3/api/views.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Django_REST_API_Hindi/gs3/api/views.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Django_REST_API_Hindi/gs3/api/views.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Django_REST_API_Hindi/gs3/api/views.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Django_REST_API_Hindi/gs3/api/views.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Django_REST_API_Hindi/gs3/myapp.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Django_REST_API_Hindi/gs3/myapp.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Django_REST_API_Hindi/gs3/myapp.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Django_REST_API_Hindi/gs3/myapp.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
