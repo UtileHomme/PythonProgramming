@@ -7,6 +7,10 @@ from fpdf import FPDF
 
 pdf = FPDF('P', 'mm', 'Letter')
 
+# Add system fonts
+
+pdf.add_font('Blackadder', '', r'C:\Windows\Fonts\ITCBLKAD.ttf', uni=True)
+
 # Add a page
 
 pdf.add_page()
@@ -14,7 +18,8 @@ pdf.add_page()
 # specify font (times, courier, helvetica, symbol, zpfdingbats
 # 'B' (Bold), 'U' (underline), 'I' (italics), '' (regular), combination ('BU')
 # font size
-pdf.set_font('helvetica', 'BIU', 16)
+# pdf.set_font('helvetica', 'BIU', 16)
+pdf.set_font('Blackadder', '', 16)
 
 # Add text
 

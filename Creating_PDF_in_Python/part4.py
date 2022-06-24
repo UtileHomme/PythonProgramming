@@ -4,8 +4,15 @@ title = '20,000 leagues under the Sea'
 
 
 class PDF(FPDF):
+
+    def __init__(self, **kwargs):
+        super(PDF, self).__init__(**kwargs)
+
+        #Adding custom font
+        self.add_font('Blackadder', '', r'C:\Windows\Fonts\ITCBLKAD.ttf', uni=True)
+
     def header(self):
-        self.set_font('helvetica', 'B', 15)
+        self.set_font('Blackadder', '', 15)
 
         # Calculate width of title and position
         title_width = self.get_string_width(title) + 6
@@ -90,7 +97,7 @@ class PDF(FPDF):
 # format ('A3', 'A4 (default), 'AS', 'Letter', 'Legal', (100, 150)) - width, height
 
 # pdf = FPDF('P', 'mm', 'Letter')
-pdf = PDF('P', 'mm', 'Letter')
+pdf = PDF(orientation = 'P', unit =  'mm', format = 'Letter')
 
 pdf.set_title(title)
 
