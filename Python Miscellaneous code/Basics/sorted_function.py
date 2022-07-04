@@ -7,3 +7,7 @@ guests = ['James', 'Mary', 'John', 'Patricia']
 sorted_guest = sorted(guests)
 
 print(sorted_guest)
+
+reverse_sorted_guests = sorted(guests, reverse=True)
+
+print(reverse_sorted_guests)

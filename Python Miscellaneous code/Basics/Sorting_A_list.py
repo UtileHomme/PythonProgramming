@@ -35,6 +35,6 @@ print(companies)
 
 # Sorting a list with lambda
 
-companies.sort(key = lambda company : company[2], reverse = True)
+companies.sort(key=lambda company: company[2], reverse=True)
 
 print(companies)
