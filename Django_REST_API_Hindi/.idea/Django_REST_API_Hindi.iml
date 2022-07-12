@@ -5,6 +5,8 @@
       <sourceFolder url="file://$MODULE_DIR$/gs25" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/gs27" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/gs3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gs29" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gs29/api" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.6 (Prod_Codebase)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
