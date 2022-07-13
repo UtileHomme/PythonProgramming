@@ -81,6 +81,7 @@ print(os.path.splitext('tmp/text.txt'))
 
 # How to fetch the modules available in os.path module
 print(dir(os.path))
+print()
 
 
 
